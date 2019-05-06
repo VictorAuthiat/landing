@@ -1,0 +1,73 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-banner {
+  display: inline-block;
+  background-color: orange;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  opacity: 0.7;
+  border: 1px solid white;
+}
+.btn-banner:hover {
+  opacity: 1;
+  background-color: white;
+  color: orange;
+  transition: 0.3s;
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+}
+
+.container h2 {
+text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background: rgb(30,30,30);
+  color: lightgrey;
+}
+
+.footer a {
+  color:  lightgrey;
+  font-size: 30px;
+}
+
+.footer a:hover {
+  font-size: 40px;
+  color: orange;
+}
+#lo {
+  margin-left: 7px;
+  font-size: 30px;
+}
+#la {
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
